@@ -2,7 +2,7 @@
 
 ## Hi there 👋 This is Seailvia (aka Silvia)
 
-***Statistics ✨ Deep Learining ✨ Algo Trading （Quant）***
+***Statistics ✨ Deep Learining ✨ Algo Trading（Quant）***
 <!--
 **Seailvia/Seailvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
