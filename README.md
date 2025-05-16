@@ -2,7 +2,7 @@
 
 ## Hi there 👋 This is Seailvia (aka Silvia)
 
-Interested in Statistics ✨ Deep Learining ✨ Financial Statistics (Algo Trading)
+**Statistics ✨ Deep Learining ✨ Financial Statistics (Algo Trading)**
 <!--
 **Seailvia/Seailvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
