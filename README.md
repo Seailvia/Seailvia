@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋 This is Seailvia (aka Silvia)
+## Hi there 👋 This is Seailvia
 
 ***Statistics ✨ Deep Learining ✨ Algo Trading***
 <!--
